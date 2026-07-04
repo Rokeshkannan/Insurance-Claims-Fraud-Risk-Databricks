@@ -90,7 +90,7 @@ Built natively in Databricks AI/BI Dashboards, connected directly to the Gold la
 
 ## Key Business Insights
 
-- Illinois (IL) had the highest loss ratio among the three states in the dataset, indicating disproportionate claims cost relative to premiums collected.
+- Indiana (IN) had the highest loss ratio among the three states in the dataset, indicating disproportionate claims cost relative to premiums collected.
 - Customers aged 60+ showed the highest loss ratio (50.28) across age bands.
 - Major Damage incidents carried a substantially higher fraud rate than Minor Damage or Trivial Damage claims.
 - January and February 2015 accounted for the vast majority of claims cost in the dataset window.
